@@ -1,0 +1,3 @@
+- src: https://github.com/chusiang/helloworld.ansible.role.git
+  name: hello-world
+  version: master
