@@ -1,2 +1,2 @@
 # tower-test
-Used to debug issue in ansible tower 3.6.2 where `roles/requirements.yml` failing to clone roles on job template launch.
+Used to test Ansible Tower where `roles/requirements.yml` is imported on job template launch.
